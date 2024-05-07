@@ -1,3 +1,7 @@
+# Weather App
+
+Within this weather app, I leverage several REST APIs in order to create this weather app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
