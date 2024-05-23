@@ -1,6 +1,6 @@
-# Weather App
+# Metric-Weather-App
 
-Welcome to WeatherApp, a simple and intuitive weather application designed to provide you with accurate weather information by leveraging several REST APIs in order to create this weather app.Whether you're planning a trip, getting ready for your daily commute, or just curious about the weather in your area, WeatherApp has got you covered.
+Welcome to the Metric-Weather-App, a simple and intuitive weather application designed to provide you with accurate weather information by leveraging several REST APIs in order to create this weather app.Whether you're planning a trip, getting ready for your daily commute, or just curious about the weather in your area, WeatherApp has got you covered.
 
 # Getting Started with Create React App
 
